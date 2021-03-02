@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Learning English</string>
+    <string name="name_app">Learning English</string>
+    <string name="fresa">Strawberry</string>
+    <string name="btn_siguiente">Next</string>
+    <string name="papaya">Papaya</string>
+    <string name="uva">Grape</string>
+    <string name="leon">Lion</string>
+    <string name="koala">Koala</string>
+    <string name="loro">Parrot</string>
+    <string name="uno">One</string>
+    <string name="dos">Two</string>
+    <string name="tres">Three</string>
+    <string name="menu">Menú</string>
+    <string name="ttl_uno">Animales</string>
+    <string name="ttl_dos">Frutas</string>
+    <string name="ttl_tres">Números</string>
+    <string name="number_one">1</string>
+    <string name="number_two">2</string>
+    <string name="number_three">3</string>
+    <string name="traduccion">Traducción</string>
+    <string name="img">Imagen</string>
+    <string name="nameImg">imagen</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="name">Name</string>
+    <string name="apellido">Apellido</string>
+    <string name="nombre">Nombre</string>
+    <string name="edad">Edad</string>
+    <string name="nick">Nickname</string>
+    <string name="registrarse">REGISTRARSE</string>
+    <string name="imaInfo">Imagen con redirección</string>
+    <string name="text">Informacion que cambiará</string>
+</resources>
