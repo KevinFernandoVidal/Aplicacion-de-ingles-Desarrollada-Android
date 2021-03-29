@@ -2,7 +2,6 @@
     <string name="app_name">Learning English</string>
     <string name="name_app">Learning English</string>
     <string name="fresa">Strawberry</string>
-    <string name="btn_siguiente">Next</string>
     <string name="papaya">Papaya</string>
     <string name="uva">Grape</string>
     <string name="leon">Lion</string>
@@ -22,7 +21,6 @@
     <string name="img">Imagen</string>
     <string name="nameImg">imagen</string>
     <string name="bienvenido">Bienvenido</string>
-    <string name="name">Name</string>
     <string name="apellido">Apellido</string>
     <string name="nombre">Nombre</string>
     <string name="edad">Edad</string>
@@ -30,4 +28,5 @@
     <string name="registrarse">REGISTRARSE</string>
     <string name="imaInfo">Imagen con redirección</string>
     <string name="text">Informacion que cambiará</string>
+    <string name="seleccione">Seleccione su pais</string>
 </resources>
